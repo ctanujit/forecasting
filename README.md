@@ -1,3 +1,5 @@
+**Forecasting and its Applications using Python**
+
 This is a repository where I will post my course material on Forecasting and its application taught at various universities. 
 
 **XIM University (June, 2024)**
